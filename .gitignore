@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test files
 node_modules
 npm-debug.log
@@ -24,3 +25,6 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+=======
+_site
+>>>>>>> 060ce15 (Replace website content with new files)

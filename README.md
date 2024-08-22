@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll Curate Premium Theme
 
 Jekyll Curate is a premium portfolio theme for Jekyll.
@@ -54,3 +55,18 @@ This theme uses open-source libraries and assets.
 - **Bootstrap 5.3.2** https://unsplash.com/license
 - **Font Awesome 6 Free:** https://fontawesome.com/
 - **Unsplash Images** https://unsplash.com/
+=======
+Grayscale Jekyll theme
+=========================
+
+Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
+>>>>>>> 060ce15 (Replace website content with new files)

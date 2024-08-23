@@ -3,7 +3,7 @@ title: Nippotica
 email: info@nippotica.com
 url: https://www.nippotica.com
 baseurl: ""
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "We build deeptech ventures."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,16 +15,10 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+  - title: linkedin
+    url: https://www.linkedin.com/in/kambiz-homayounfar-b379a01ba/
+  - title: linkedin
+    url: https://www.linkedin.com/in/daijiro-nishi-b4b55445/
 
 # Build settings
 markdown: kramdown
